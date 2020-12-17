@@ -1,0 +1,1 @@
+# InformationRetrievalUsingSemanticSimilarity_BERT_ClinicalBERT_Covid19
